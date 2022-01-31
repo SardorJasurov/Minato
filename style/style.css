@@ -14,30 +14,4 @@
     height: 100vh;
     background-attachment: fixed;
 }
-.main{
-    height: 100vh;
-    background: black;
-}
-.link{
-    font-size: 30px;
-    color: white;
-    border: 5px solid red;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    bottom: 30px;
-    right: 30px;
-}
-.title{
-    background: white;
-    width: max-content;
-    font-size: 30px;
-    padding: 20px;
-    left: 0;
-    top:0;
-    position: absolute;
-}
+
